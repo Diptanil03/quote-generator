@@ -1,0 +1,3 @@
+This is a simple quote generator
+<br>
+Which generate random quote...
